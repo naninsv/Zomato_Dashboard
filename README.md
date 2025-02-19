@@ -31,7 +31,7 @@ This dashboard helps:
 
 ##  Dashboard  🖼️
 - **Index**  <br> <br>
-![Dashboard Screenshot](https://github.com/Jiyachaudhari-05/Zomato_Dashboard/blob/main/Images/Screenshot%202025-01-14%20130215.png)
+![Dashboard Screenshot](Images/Screenshot_2025-01-14_130215.png)
 - **Overview**  <br> <br>
 ![Dashboard Screenshot](https://github.com/Jiyachaudhari-05/Zomato_Dashboard/blob/main/Images/Screenshot%202025-01-14%20130244.png)
 - **User Performance**  <br> <br>
