@@ -29,15 +29,18 @@ This dashboard helps:
 - **Data Sources:**  Sampled datasets with simulated transaction and inventory data for Amazon sales. CSV and Excel data integrated from e-commerce platforms for real-world data insights. <br>
 - **Power Query:**  Automating data transformations and refreshing reports from external sources. Integrating live data sources with APIs. <br>
 
-##  Dashboard  🖼️
-- **Index**  <br> <br>
-![Dashboard Screenshot](Images/Screenshot_2025-01-14_130215.png)
-- **Overview**  <br> <br>
-![Dashboard Screenshot](https://github.com/Jiyachaudhari-05/Zomato_Dashboard/blob/main/Images/Screenshot%202025-01-14%20130244.png)
-- **User Performance**  <br> <br>
-![Dashboard Screenshot](https://github.com/Jiyachaudhari-05/Zomato_Dashboard/blob/main/Images/Screenshot%202025-01-14%20130306.png)
-- **City Performance**  <br> <br>
-![Dashboard Screenshot](https://github.com/Jiyachaudhari-05/Zomato_Dashboard/blob/main/Images/Screenshot%202025-01-14%20130322.png)
+##  Dashboard  🖼️  
+- **Index**  <br> <br>  
+![Dashboard Screenshot](Images/Screenshot%202025-01-14%20130215.png)  
+
+- **Overview**  <br> <br>  
+![Dashboard Screenshot](Images/Screenshot%202025-01-14%20130244.png)  
+
+- **User Performance**  <br> <br>  
+![Dashboard Screenshot](Images/Screenshot%202025-01-14%20130306.png)  
+
+- **City Performance**  <br> <br>  
+![Dashboard Screenshot](Images/Screenshot%202025-01-14%20130322.png)  
 
 <br>
 
